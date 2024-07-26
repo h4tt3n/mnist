@@ -1,0 +1,1 @@
+This folder contains the full 60.000 digits MNIST dataset

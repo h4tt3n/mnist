@@ -1,0 +1,1 @@
+This folder contains a limited 10.000 digits subset of the 60.000 digits MNIST dataset
